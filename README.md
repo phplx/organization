@@ -10,4 +10,4 @@ The PHPLx is a meetup group for anyone interested in PHP Language. We will do mo
 
 ## LICENSE
 
-* See LICENSE.md 
+* See [LICENSE.md](https://github.com/phplx/organization/blob/master/LICENSE.md)
