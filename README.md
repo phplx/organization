@@ -6,4 +6,8 @@ The PHPLx is a meetup group for anyone interested in PHP Language. We will do mo
 
 ## Next Meetup
 
-* **6 December** - more information soon 
+* **6 December** - more information soon
+
+## LICENSE
+
+* See LICENSE.md 
